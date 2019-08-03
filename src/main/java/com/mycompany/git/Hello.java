@@ -17,5 +17,6 @@ public class Hello {
     public static void main(String[] args) {
         System.out.println("Hello!111222");
         System.out.println("Hello222");
+        System.out.println("merge");
     }
 }
