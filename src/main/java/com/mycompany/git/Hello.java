@@ -18,5 +18,6 @@ public class Hello {
         System.out.println("Hello!111222");
         System.out.println("Hello222");
         System.out.println("merge111222");
+        System.out.println("bug");
     }
 }
